@@ -1,0 +1,9 @@
+2005-08-30
+去掉学生发通知的专用页面的相关链接
+/tongzhi.asp
+/tongzhi_detail.asp
+/admin/tongzhi_set.asp
+/admin/tongzhi_del.asp
+
+
+和老师通用一个数据表，学生只能发通知，无法删除，老师负责统一管理。

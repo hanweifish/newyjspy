@@ -1,0 +1,145 @@
+body
+ {
+  	font-size: 12px; 
+	margin: 0;
+	scrollbar-face-color: #DFDFDF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DFDFDF;
+	scrollbar-3dlight-color: #DBDBDB;
+	scrollbar-arrow-color:  #000000;
+	scrollbar-track-color: #F8F8F8;
+	scrollbar-darkshadow-color: #333333;
+ }
+table,td,form{
+word-break:break-all;
+word-wrap:break-word;
+font-size:12px;
+}
+.blackShadow{filter:dropshadow(color=black,offx=1,offy=1);}
+
+.whiteShadow{filter:dropshadow(color=white,offx=1,offy=1);}
+
+.whiteGlow{filter:glow(color=white,strength=3);}
+
+.redGlow{filter:glow(color=red,strength=3);}
+
+a:link {
+	font-size: 12px;
+	color: #004080;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 12px;
+	color: #004080;
+	text-decoration: none;
+}
+a:hover {
+	cursor: hand;
+	font-size: 12px;
+	color: #FF9900;
+	text-decoration: underline;
+	border-bottom:1px;
+	position:relative;
+	top:1px;
+	left:1px;
+}
+
+.thin {
+	border-collapse:collapse;
+}
+
+.style1{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration:none;    
+ }
+ .style1:link{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration:none;    
+ }
+ .style1:visited{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration:none;    
+ }
+ .style1:hover{
+	font-size: 12px;
+	color: #FFFF00;
+	text-decoration: none;
+	top: 2px;
+	left:1px;
+	position:relative;
+ }
+.style2{
+	font-size: 12px;
+	color: #004080;
+	text-decoration:none;    
+ }
+.style3{
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration:none;    
+ }
+.style3:link{
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration:none;    
+ }
+.style3:visited{
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration:none;    
+ }
+.style3:hover{
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration:underline;
+	position:relative;
+	top:1px;    
+ }
+.style4{
+	font-size: 12px;
+	color: #FFff00;
+	text-decoration:none;    
+ }
+.style5{
+	font-size: 12px;
+	color: #000000;
+	text-decoration:none;
+	background-color: #FFFFCC;
+ }
+.style6{
+	font-size: 12px;
+	color: #ff0000;
+	text-decoration:none;
+ }
+.style7:link{
+	font-size: 12px;
+	color: #FFFF00;
+	text-decoration:none;
+ }
+.style7:hover{
+	font-size: 12px;
+	color: #ffff00;
+	text-decoration:none;
+	border-bottom:1px;
+	position:relative;
+	top:1px;
+	left:1px;
+ }
+.style7:visited{
+	font-size: 12px;
+	color: #ffff00;
+	text-decoration:none;
+ }
+.style8{
+	font-size: 12px;
+	color: #000000;
+	text-decoration:none;
+ }
+.style8:link{
+	font-size: 12px;
+	color: #000000;
+	text-decoration:none;
+ }
